@@ -1,0 +1,1 @@
+sudo apt-get install python-pygame python-serial firefox nautilus-open-terminal build-essential make git vim nano vlc evince transmission valgrind htop lshw software-center update-manager ubuntu-restricted-extras synaptic lynx thunderbird chromium-browser nmap iw gedit gnome-screensaver
